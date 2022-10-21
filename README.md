@@ -1,7 +1,5 @@
 <p align="center"> 
-
     <img src="img/logo.png" height="150" width="175" alt="logo" /> 
-
 </p> 
 
 <p align="center"> 
@@ -33,17 +31,11 @@
 ## Autor 
 
 <p> 
-
     <a href="https://github.com/Nathixm"> 
-
     <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/110853018?v=4" width="120px;" alt="Foto Autor"/> 
-
     <br /> 
-
     <b>Nathália Martins</b> 
-
     </a> 
-
   </p> 
 
  
