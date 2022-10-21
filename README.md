@@ -10,8 +10,6 @@
 
 <img src="https://img.shields.io/github/milestones/issues-total/Nathixm/salamandra-scented-candle/1?color=5B368E&label=Tasks" alt="task" /> 
 
-<img src="https://img.shields.io/github/license/Nathixm/salamandra-scented-candle" alt="license" /> 
-
 </p> 
 
 ## Descrição do Projeto 
