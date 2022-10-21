@@ -1,7 +1,23 @@
-header{
+header {
     text-align: center;
 }
 
 #logo {
-    width: 300px
+    width: 300px;
 }
+
+.separador {
+	background: #fcf6f0;
+	padding: 2px;
+}
+
+.principal {
+    width: 50%;
+	display: inline-block;
+}
+
+.beneficio {
+    width: 50%;
+	display: inline-block;
+}
+
