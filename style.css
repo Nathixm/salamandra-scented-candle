@@ -26,7 +26,10 @@ em strong {
 }
 
 .beneficio {
-    width: 50%;
+    width: 40%;
 	display: inline-block;
+    height: 100%;
 }
-
+.imagem-vela {
+    width: 100%;
+}
