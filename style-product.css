@@ -1,3 +1,8 @@
+header {
+    background: #d4e5bf;
+    padding: 20px 0;
+}
+
 .caixa {
     position: relative;
     width: 940px;
@@ -8,11 +13,6 @@ nav {
     position: absolute;
     top: 110px;
     right: 0;
-}
-
-header {
-    background: #d4e5bf;
-    padding: 20px 0;
 }
 
 nav li {
