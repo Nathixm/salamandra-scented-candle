@@ -73,12 +73,15 @@ nav a:hover {
 }
 
 footer {
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
     text-align: center;
-    background: url("img/logo.png");
-    padding: 40px 0;
+    background: #d4e5bf;
+    padding: 40px 0 !important;
 }
 
 .copyright {
-    font-size: 13px;
+    font-size: 15px;
     margin: 20px 0 0;
 }

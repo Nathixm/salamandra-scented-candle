@@ -1,5 +1,10 @@
+html {
+    height: 100%;
+}
+
 body {
-    font-family: Helvetica, sans-serif; 
+    font-family: Helvetica, sans-serif;
+    height: 100%;
 }
 
 header {
