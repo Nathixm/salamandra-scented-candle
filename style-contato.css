@@ -1,0 +1,42 @@
+header {
+    background: #d4e5bf;
+    padding: 20px 0;
+}
+
+.caixa {
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+}
+nav {
+    position: absolute;
+    top: 110px;
+    right: 30px;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 20px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+footer {
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+    text-align: center;
+    background: #d4e5bf;
+    padding: 40px 0 !important;
+}
+
+.copyright {
+    font-size: 15px;
+    margin: 20px 0 0;
+}
