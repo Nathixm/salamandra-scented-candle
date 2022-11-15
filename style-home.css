@@ -1,0 +1,50 @@
+html {
+    height: 100%;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+    height: 100%;
+}
+
+header {
+    text-align: center;
+}
+
+#logo {
+    width: 300px;
+}
+
+.separador {
+	background: #fcf6f0;
+	padding: 2px;
+}
+
+.principal {
+    width: 50%;
+	display: inline-block;
+    padding-left: 10px;
+}
+
+.principal h1 {
+    margin: 20px 0 10px 0;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.principal p {
+    margin: 10px 0 5px 0;
+}
+
+em strong {
+	color: #FF0000;
+}
+
+.beneficio {
+    display: inline-block;
+    width: 40%;
+    padding: 40px;
+}
+.imagem-vela {
+    width: 100%;
+}
