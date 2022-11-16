@@ -28,7 +28,7 @@ nav a {
 }
 
 footer {
-    position: absolute;
+    position: fixed;
     width: 100%;
     bottom: 0px;
     text-align: center;
@@ -46,8 +46,10 @@ main {
     margin: 0 auto;
 }
 
+
 form {
-    margin: 40px 0;
+    margin: 30px 30px;
+    padding-bottom: 250px;
 }
 
 form label {
@@ -56,9 +58,28 @@ form label {
     margin: 0 0 10px;
 }
 
+form label, form p {
+    display:block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
 form input {
+    display: block;
+    margin: 0 0 20px 0;
+    padding: 10px 25px;
+    width: 50%;
+}
+
+.input-padrao {
     display: block;
     margin: 0 0 20px;
     padding: 10px 25px;
     width: 50%;
+}
+
+.novidades {
+    display: inline;
+    margin: 20px 0;
+    width: auto;
 }
