@@ -1,6 +1,6 @@
 header {
     background: #d4e5bf;
-    padding: 20px 0;
+    padding: 0 0;
 }
 
 .caixa {
@@ -8,6 +8,7 @@ header {
     width: 100%;
     margin: 0 auto;
 }
+
 nav {
     position: absolute;
     top: 110px;
@@ -27,6 +28,11 @@ nav a {
     text-decoration: none;
 }
 
+nav a:hover {
+    color: green;
+    text-decoration: underline;
+}
+
 footer {
     position: fixed;
     width: 100%;
@@ -39,47 +45,4 @@ footer {
 .copyright {
     font-size: 15px;
     margin: 20px 0 0;
-}
-
-main {
-    width: 940px;
-    margin: 0 auto;
-}
-
-
-form {
-    margin: 30px 30px;
-    padding-bottom: 250px;
-}
-
-form label {
-    display:block;
-    font-size: 20px;
-    margin: 0 0 10px;
-}
-
-form label, form p {
-    display:block;
-    font-size: 20px;
-    margin: 0 0 10px;
-}
-
-form input {
-    display: block;
-    margin: 0 0 20px 0;
-    padding: 10px 25px;
-    width: 50%;
-}
-
-.input-padrao {
-    display: block;
-    margin: 0 0 20px;
-    padding: 10px 25px;
-    width: 50%;
-}
-
-.novidades {
-    display: inline;
-    margin: 20px 0;
-    width: auto;
 }
